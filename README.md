@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+KIRAN+SHAMS!;" />
 </h1>
 
-<h3 align="center">A passionate full-stack developer from Pakistan PK</h3>
+<h3 align="center">A passionate front-end developer from Pakistan PK</h3>
 
 <br/>
 
@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on "a travel website"
  
- 🌱 I’m currently learning "JS, TypeScript"
+ 🌱 I have started to learn "TypeScript"
 
 💬 Ask me about "JS, PHP, Laravel... or anything [here](https://github.com/kiranShamsHere/kiranShamsHere/issues)"
 
