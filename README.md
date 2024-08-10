@@ -8,7 +8,7 @@
 
 <br/>
 
-<div align="center">
+<div> 
  
  🔭 I’m currently working on "a travel website"
  
