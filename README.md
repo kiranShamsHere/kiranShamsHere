@@ -32,7 +32,7 @@
 
 - 🌱 I’m currently learning: **TypeScript.**
 
-- 🤝 Visit my LinkTree: **(https://linktr.ee/KIRAN___SHAMS)**
+- 🤝 Visit my LinkTree: <a href="https://linktr.ee/KIRAN___SHAMS">LinkTree <a/>
 
 - 👨‍💻 My projects are available at (https://github.com/kiranShamsHere)
 
