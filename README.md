@@ -25,7 +25,7 @@
 </a>   -->
 </div>  
 
-<img align="right" alt="coding" width="400" src="[https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnZmMzI3eGs0aXB2ZzR6c3F1OHMyMnE3bGNpZ3Jsd3Fyc2ljNnQxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.webp)">
+<img align="right" alt="coding" width="400" src="(https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnZmMzI3eGs0aXB2ZzR6c3F1OHMyMnE3bGNpZ3Jsd3Fyc2ljNnQxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.webp)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiranShamsHere&label=Visitors:&color=007a02&style=plastic" alt="KIRAN SHAMS" /> </p>
 
@@ -35,13 +35,13 @@
 
 - 🤝 Visit my LinkTree: **(https://linktr.ee/KIRAN___SHAMS)**
 
-- 👨‍💻 My projects are available at [https://github.com/abdulrehmanghub](https://github.com/abdulrehmanghub)
+- 👨‍💻 My projects are available at (https://github.com/abdulrehmanghub)
 
-- 💬 Ask me about: JS, PHP, Laravel... or anything [here](https://github.com/kiranShamsHere/kiranShamsHere/issues)**
+- 💬 Ask me about: JS, PHP, Laravel... or anything [here](https://github.com/kiranShamsHere/kiranShamsHere/issues)
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2>⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<div align="center">
+<div>
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git" />
     <img src="https://skillicons.dev/icons?i=javascript,mysql,php,laravel" /><br>
 </div>
