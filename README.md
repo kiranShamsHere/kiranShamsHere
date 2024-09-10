@@ -34,7 +34,7 @@
 
 - 🤝 Visit my LinkTree: <a href="https://linktr.ee/KIRAN___SHAMS">LinkTree <a/>
 
-- 👨‍💻 My projects are available at (https://github.com/kiranShamsHere)
+- 👨‍💻 My projects are available at <a href="https://github.com/kiranShamsHere?tab=repositories">GitHub Repositories<a/>
 
 - 💬 Ask me about: JS, PHP, Laravel... or anything [here](https://github.com/kiranShamsHere/kiranShamsHere/issues)
 
