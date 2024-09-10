@@ -3,8 +3,9 @@
 </h1>
 <h3 align="center">A passionate front-end developer from Pakistan!</h3>
 
-## Profile:  
-<div align="center">
+<div>
+## Connect with me:  
+<br/>
 <a href="https://github.com/kiranShamsHere" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
