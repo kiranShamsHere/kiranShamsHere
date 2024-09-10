@@ -24,7 +24,7 @@
 <img src=https://img.shields.io/badge/youtube-%23000000.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>   -->
 </div>  
-<br>
+<hr/>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiranShamsHere&label=Visitors:&color=007a02&style=plastic" alt="KIRAN SHAMS" /> </p>
@@ -39,7 +39,7 @@
 
 - 💬 Ask me about: JS, PHP, Laravel... or anything [here](https://github.com/kiranShamsHere/kiranShamsHere/issues)
 
-<hr/>
+<br/>
 <h2>⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div>
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git" />
