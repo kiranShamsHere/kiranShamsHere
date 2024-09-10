@@ -39,13 +39,12 @@
 
 - 💬 Ask me about: JS, PHP, Laravel... or anything [here](https://github.com/kiranShamsHere/kiranShamsHere/issues)
 
+<hr/>
 <h2>⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
 <div>
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git" />
     <img src="https://skillicons.dev/icons?i=javascript,mysql,php,laravel" /><br>
 </div>
-
-</br>
+<hr/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kiranShamsHere&theme=dark" alt="KIRAN SHAMS" /></p>
