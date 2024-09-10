@@ -24,7 +24,7 @@
 <img src=https://img.shields.io/badge/youtube-%23000000.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>   -->
 </div>  
-
+<hr/>
 <img align="right" alt="coding" width="400" src="(https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnZmMzI3eGs0aXB2ZzR6c3F1OHMyMnE3bGNpZ3Jsd3Fyc2ljNnQxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.webp)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiranShamsHere&label=Visitors:&color=007a02&style=plastic" alt="KIRAN SHAMS" /> </p>
