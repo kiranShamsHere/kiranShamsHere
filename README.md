@@ -25,7 +25,7 @@
 </a>   -->
 </div>  
 <hr/>
-<img align="right" alt="coding" width="400" src="(https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnZmMzI3eGs0aXB2ZzR6c3F1OHMyMnE3bGNpZ3Jsd3Fyc2ljNnQxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.webp)">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiranShamsHere&label=Visitors:&color=007a02&style=plastic" alt="KIRAN SHAMS" /> </p>
 
