@@ -39,6 +39,7 @@
 - 💬 Ask me about: JS, PHP, Laravel... or anything [here](https://github.com/kiranShamsHere/kiranShamsHere/issues)
 
 <br/>
+<hr/>
 <h2>⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div>
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git" />
