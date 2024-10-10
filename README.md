@@ -1,4 +1,4 @@
-![logo](https://media.licdn.com/dms/image/D4D12AQFXUMCI_xZ3EQ/article-cover_image-shrink_350_1400/0/1683909809034?e=2147483647&v=beta&t=4fGfWqzZukhw96bqPVg3D7DcGj9QURTHNOlUH_XShXY)
+![logo](https://media.licdn.com/dms/image/D4D12AQFXUMCI_xZ3EQ/article-cover_image-shrink_720_1280/0/1683909809034?e=2147483647&v=beta&t=4fGfWqzZukhw96bqPVg3D7DcGj9QURTHNOlUH_XShXY)
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;+I'm+KIRAN+SHAMS!;" />
