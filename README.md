@@ -44,7 +44,6 @@
 
 <!-- Tech Stack -->
 <div align="center">
-<br>
 <h2>⚒️ Languages-Frameworks-Tools ⚒️</h2>
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git" />
     <img src="https://skillicons.dev/icons?i=javascript,mysql,php,laravel" />
