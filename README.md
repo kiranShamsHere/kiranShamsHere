@@ -47,10 +47,10 @@
 </div>
 <hr/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kiranShamsHere&theme=dark" alt="KIRAN SHAMS" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kiranShamsHere&theme=purple" alt="KIRAN SHAMS" /></p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiranShamsHere&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiranShamsHere&layout=compact&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiranShamsHere&show_icons=true&theme=purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiranShamsHere&layout=compact&theme=purple)
 
 
 ![snake gif](https://github.com/kiranShamsHere/kiranShamsHere/blob/output/github-snake-dark.svg)
