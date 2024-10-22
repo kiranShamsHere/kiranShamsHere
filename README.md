@@ -39,8 +39,11 @@
 - 💬 Ask me about: JS, PHP, Laravel... or anything [here](https://github.com/kiranShamsHere/kiranShamsHere/issues)
 
 <br/>
-<hr/>
 <div>
+<hr/>
+
+
+<div align="center">
 <h2>⚒️ Languages-Frameworks-Tools ⚒️</h2>
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git" />
     <img src="https://skillicons.dev/icons?i=javascript,mysql,php,laravel" /><br>
@@ -51,11 +54,10 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiranShamsHere&show_icons=true&theme=midnight-purple)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiranShamsHere&layout=compact&theme=midnight-purple)
-
+</div
 
 <!-- Snake -->
 <div align="center">
-    
   ![snake gif](https://github.com/kiranShamsHere/kiranShamsHere/blob/output/github-snake-dark.svg)
 </div>
 
@@ -63,6 +65,5 @@
 
 <!-- Counter -->
 <div align="center">
-  
   [![](https://visitcount.itsvg.in/api?id=kiranShamsHere&icon=10&color=6)](https://visitcount.itsvg.in)
 </div>
