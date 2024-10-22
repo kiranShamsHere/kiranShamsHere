@@ -42,7 +42,9 @@
 <hr/>
 
 
+<!-- Tech Stack -->
 <div align="center">
+<br>
 <h2>⚒️ Languages-Frameworks-Tools ⚒️</h2>
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git" />
     <img src="https://skillicons.dev/icons?i=javascript,mysql,php,laravel" />
@@ -54,6 +56,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiranShamsHere&show_icons=true&theme=midnight-purple)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiranShamsHere&layout=compact&theme=midnight-purple)
+
 </div>
 
 <!-- Snake -->
