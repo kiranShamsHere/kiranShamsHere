@@ -45,8 +45,10 @@
 <div align="center">
 <h2>⚒️ Languages-Frameworks-Tools ⚒️</h2>
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=javascript,mysql,php,laravel" /><br>
-</div>
+    <img src="https://skillicons.dev/icons?i=javascript,mysql,php,laravel" />
+<br>
+<br>
+<br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kiranShamsHere&theme=midnight-purple" alt="KIRAN SHAMS" /></p>
 
