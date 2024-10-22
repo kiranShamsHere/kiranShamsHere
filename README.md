@@ -51,3 +51,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiranShamsHere&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiranShamsHere&layout=compact&theme=dark)
+
+
+![snake gif](https://github.com/kiranShamsHere/kiranShamsHere/blob/output/github-snake-dark.svg)
