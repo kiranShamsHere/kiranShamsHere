@@ -53,4 +53,16 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiranShamsHere&layout=compact&theme=midnight-purple)
 
 
-![snake gif](https://github.com/kiranShamsHere/kiranShamsHere/blob/output/github-snake-dark.svg)
+<!-- Snake -->
+<div align="center">
+    
+  ![snake gif](https://github.com/kiranShamsHere/kiranShamsHere/blob/output/github-snake-dark.svg)
+</div>
+
+
+
+<!-- Counter -->
+<div align="center">
+  
+  [![](https://visitcount.itsvg.in/api?id=kiranShamsHere&icon=10&color=6)](https://visitcount.itsvg.in)
+</div>
