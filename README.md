@@ -1,5 +1,5 @@
 <!-- BANNER IMAGEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE -->
-[![MasterHead](github_banner1.gif)](https://rishavchanda.io)
+[![MasterHead](github_banner.gif)]
 
 
 
