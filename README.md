@@ -60,12 +60,19 @@
 <!-- Tech Stack -->
 <div align="center">
    <h2>⚒️ Languages-Frameworks-Tools ⚒️</h2>
+    
    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git" />
    <img src="https://skillicons.dev/icons?i=javascript,mysql,php,laravel" />
-   <br>
-   <br>
-   <br>
+    
+   <br><br><br><br>
+   
+</div>
 
+<hr>
+<!-- GITHUB STACKSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS -->
+<div align="center">
+   <h2 align="center">⚡ Stats ⚡</h2>
+   <br>
    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kiranShamsHere&theme=midnight-purple" alt="KIRAN SHAMS" /></p>
 
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiranShamsHere&show_icons=true&theme=midnight-purple)
@@ -80,7 +87,6 @@
 <!-- Snake -->
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <br>
     
   ![snake gif](https://github.com/kiranShamsHere/kiranShamsHere/blob/output/github-snake.svg)
 
