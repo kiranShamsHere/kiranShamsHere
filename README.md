@@ -82,7 +82,7 @@
   <h2>🐍 My Contributions 🐍</h2>
   <br>
     
-  ![snake gif](https://github.com/kiranShamsHere/kiranShamsHere/blob/output/github-snake-light.svg)
+  ![snake gif](https://github.com/kiranShamsHere/kiranShamsHere/blob/output/github-snake.svg)
 
   <br>
 </div>
