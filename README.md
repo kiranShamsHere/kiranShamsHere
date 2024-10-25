@@ -84,7 +84,8 @@
 
   ![snake gif](https://github.com/kiranShamsHere/kiranShamsHere/blob/output/github-snake-dark.svg)
 
-  <br><br><br>
+  <br><br>
+  <hr>
 </div>
 
 
