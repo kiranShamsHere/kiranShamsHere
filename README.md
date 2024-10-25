@@ -57,16 +57,18 @@
 <hr/>
 
 
+
 <!-- Tech Stack -->
 <div align="center">
    <h2>⚒️ Languages-Frameworks-Tools ⚒️</h2>
     
    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git" />
    <img src="https://skillicons.dev/icons?i=javascript,mysql,php,laravel" />
-    
-   <br><br>
    
 </div>
+
+
+
 
 <hr>
 <!-- GITHUB STACKSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS -->
@@ -80,8 +82,11 @@
 
 </div>
 
+
+
 <br>
 <hr>
+
 
 
 <!-- Snake -->
