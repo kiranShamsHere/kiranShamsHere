@@ -1,12 +1,24 @@
-<!-- BANNER IMAGEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE 
-[![MasterHead](github_banner.gif)]
--->
+<!-- TOP SECTIONNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNn -->
+<div id="top"></div>
 
 
-<!-- INTRODUCTIONNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNnnnnnnn-->
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+there!+👋;+I'm+KIRAN+SHAMS!;" />
-</h1>
+
+<!-- BANNER IMAGEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE -->
+<div align="center" >
+    <img width="100%" alt="welcome to my profile!" src="https://github.com/kiranShamsHere/kiranShamsHere/blob/main/assets/images/header.png">
+</div>
+
+
+
+<!-- INTRODUCTIONNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN -->
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Poppins&color=%237E3ACE&size=35&center=true&vCenter=true&width=450&lines=Hey+there!+👋;I'm+Kiran+Shams" alt="Hey there! I'm Kiran Shams">
+    </a>
+</div>
+
+
+
 
 
 
