@@ -108,10 +108,6 @@
 </div>  
 <hr/>
 
-<!-- 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kiranShamsHere&label=Visitors:&color=007a02&style=plastic" alt="KIRAN SHAMS" /> </p>
--->
-
 
 - 🔭 I’m currently working on: **Travel Website.**
 
