@@ -69,7 +69,27 @@
 
 
 
+<hr>
+<br>
+<!-- MY CODING JOURNEEYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY -->
+<div align= "center">
+<details>
+  <summary>
+      <h2> 💻 My Coding Journey </h2>
+  </summary>
+  <p>
+      <br>
+  Coding wasn’t on my radar in my early years, but as I grew, so did my passion for web development. After completing my intermediate education, I knew I wanted to dive into this field. I started with online tutorials, though I struggled with practicing consistently. Things changed when I enrolled in a government course by NAVTTC, where I gained a strong foundation in both frontend and backend development. My true specialization, however, lies in frontend.
+  </p>
+  <p>
+  Now, I’m independently learning advanced tools and technologies, committed to improving my skills every day. Coding has become more than just a skill—it’s a pathway to building something meaningful. Inshallah, I aim to complete a degree in computer science and continue to grow.
+  </p>
+</details>
+</div>
 
+
+
+<br>
 <hr>
 <!-- GITHUB STACKSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS -->
 <div align="center">
@@ -105,3 +125,6 @@
     
   [![](https://visitcount.itsvg.in/api?id=kiranShamsHere&icon=10&color=6)](https://visitcount.itsvg.in)
 </div>
+
+
+
