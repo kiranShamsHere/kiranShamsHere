@@ -25,6 +25,13 @@
 
 
 
+<!-- Counter -->
+<div align="left">
+    
+</div>
+
+
+
 <!-- HOW TO REACH MEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE -->
 <div align="center">
     <br>
@@ -136,7 +143,6 @@
 
 
 <hr>
-<br>
 <!-- MY CODING JOURNEEYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY -->
 <div align= "center">
 <details>
@@ -155,7 +161,6 @@
 
 
 
-<br>
 <hr>
 <!-- GITHUB STACKSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS -->
 <div align="center">
@@ -186,12 +191,7 @@
 
 
 
-<!-- Counter -->
-<div align="center">
-    
-  [![](https://visitcount.itsvg.in/api?id=kiranShamsHere&icon=10&color=6)](https://visitcount.itsvg.in)
-</div>
-
+<!-- THANKS MESSAGEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE -->
 <div align="center">
     <a href="https://git.io/typing-svg">
         <img alt="thanks for your visit" src="https://readme-typing-svg.demolab.com?font=Poppins&size=35&pause=1000&color=7E3ACECE&center=true&vCenter=true&width=435&lines=Thanks+for+your+visit!" >
@@ -199,13 +199,22 @@
 </div>
 
 
-<!-- BACK TO TOP ICONNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN -->
-<p align="right">
-    <a href="#top">
+
+<br>
+<!-- BACK TO TOP ICON AND PROFILE VISITOR ICON WITH NON-BREAKING SPACES -->
+<div align="center">
+   <a href="https://visitorbadge.io/status?path=kiranShamsHere">
+       <img src="https://api.visitorbadge.io/api/visitors?path=kiranShamsHere&label=Profile%20Visitors&countColor=%23ba68c8" alt="Profile Visitors" /> 
+   </a>
+   &nbsp;&nbsp;&nbsp;&nbsp; <!-- Adds space between the badges -->
+   <a href="#top">
        <img src="https://img.shields.io/badge/Back%20to%20Top%20⬆️-7E3ACE?style=for-the-badge&logoColor=white" alt="Back to top" />
-    </a>
-</p>
+   </a>
+</div>
 
 
+
+
+<br>
 <!-- FOOTER PNGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG-->
 <div align="center"><img alt="" width="100%" src="https://github.com/kiranShamsHere/kiranShamsHere/blob/main/assets/images/footer.png"></div>
