@@ -192,5 +192,12 @@
   [![](https://visitcount.itsvg.in/api?id=kiranShamsHere&icon=10&color=6)](https://visitcount.itsvg.in)
 </div>
 
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img alt="thanks for your visit" src="https://readme-typing-svg.demolab.com?font=Poppins&size=35&pause=1000&color=7E3ACECE&center=true&vCenter=true&width=435&lines=Thanks+for+your+visit!" >
+    </a>
+</div>
 
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="Back to top" /></a></p>
 
+<div align="center"><img alt="" width="100%" src="https://github.com/kiranShamsHere/kiranShamsHere/blob/main/assets/images/footer.png"></div>
