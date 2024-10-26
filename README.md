@@ -198,6 +198,14 @@
     </a>
 </div>
 
-<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="Back to top" /></a></p>
 
+<!-- BACK TO TOP ICONNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN -->
+<p align="right">
+    <a href="#top">
+       <img src="https://img.shields.io/badge/Back%20to%20Top%20⬆️-7E3ACE?style=for-the-badge&logoColor=white" alt="Back to top" />
+    </a>
+</p>
+
+
+<!-- FOOTER PNGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG-->
 <div align="center"><img alt="" width="100%" src="https://github.com/kiranShamsHere/kiranShamsHere/blob/main/assets/images/footer.png"></div>
