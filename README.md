@@ -157,43 +157,41 @@
   Now, I’m independently learning advanced tools and technologies, committed to improving my skills every day. Coding has become more than just a skill—it’s a pathway to building something meaningful. Inshallah, I aim to complete a degree in computer science and continue to grow.
   </p>
 </details>
-</div>
 
 
 
-<hr>
 <!-- GITHUB STACKSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS -->
-<div align="center">
-   <h2 align="center">⚡ My GitHub Stats ⚡</h2>
-    <div>
+<h2 align="center">⚡ My GitHub Stats ⚡</h2>
+<div>
+            <br>
         <!-- TOTAL FOLLOWERSSSSSSSSSSSSSSSSSSSSS -->
-        <a href="https://github.com/kiranShamsHere">
-            <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/kiranShamsHere?style=for-the-badge&labelColor=7E3ACE&color=181717">
-        </a>
+            <a href="https://github.com/kiranShamsHere">
+                <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/kiranShamsHere?style=for-the-badge&labelColor=7E3ACE&color=181717">
+            </a>
         <!-- GITHUB REPOSSSSSSSSSSSSSSSSSSSSSSS -->
-        <a href="https://badges.strrl.dev">
-            <img alt="github repos" src="https://badges.strrl.dev/repos/kiranShamsHere?color=181717&style=for-the-badge&labelColor=7E3ACE">
-        </a>
+            <a href="https://badges.strrl.dev">
+                <img alt="github repos" src="https://badges.strrl.dev/repos/kiranShamsHere?color=181717&style=for-the-badge&labelColor=7E3ACE">
+            </a>
         <!-- COMMITS TODAYYYYYYYYYYYYYYYYYYYYYY -->
-        <a href="https://badges.strrl.dev">
-            <img alt="commits today" src="https://badges.strrl.dev/commits/daily/kiranShamsHere?color=181717&style=for-the-badge&labelColor=7E3ACE">
-        </a>
+            <a href="https://badges.strrl.dev">
+                <img alt="commits today" src="https://badges.strrl.dev/commits/daily/kiranShamsHere?color=181717&style=for-the-badge&labelColor=7E3ACE">
+            </a>
         <!-- COMMITS THIS WEEKKKKKKKKKKKKKKKKKK -->
         <!--
-        <a href="https://badges.strrl.dev">
-        <img alt="commits this week" src="https://badges.strrl.dev/commits/weekly/kiranShamsHere?color=181717&style=for-the-badge&labelColor=7E3ACE">
-       </a> 
+            <a href="https://badges.strrl.dev">
+                <img alt="commits this week" src="https://badges.strrl.dev/commits/weekly/kiranShamsHere?color=181717&style=for-the-badge&labelColor=7E3ACE">
+            </a> 
         -->
         <!-- COMMITS THIS MONTHHHHHHHHHHHHHHHHH -->
         <!--
-       <a href="https://badges.strrl.dev">
-            <img alt="commits this month" src="https://badges.strrl.dev/commits/monthly/kiranShamsHere?color=181717&style=for-the-badge&labelColor=7E3ACE">
-       </a>
+            <a href="https://badges.strrl.dev">
+                <img alt="commits this month" src="https://badges.strrl.dev/commits/monthly/kiranShamsHere?color=181717&style=for-the-badge&labelColor=7E3ACE">
+            </a>
        -->
        <!-- ALL COMMITSSSSSSSSSSSSSSSSSSSSSSSSS -->
-       <a href="https://badges.strrl.dev">
-           <img alt="all commits" src="https://badges.strrl.dev/commits/all/kiranShamsHere?color=181717&style=for-the-badge&labelColor=7E3ACE">
-       </a> 
+            <a href="https://badges.strrl.dev">
+                <img alt="all commits" src="https://badges.strrl.dev/commits/all/kiranShamsHere?color=181717&style=for-the-badge&labelColor=7E3ACE">
+            </a> 
     </div>
     <br>
     <p>
@@ -202,16 +200,11 @@
 
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiranShamsHere&show_icons=true&theme=midnight-purple)
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiranShamsHere&layout=compact&theme=midnight-purple)
-
 </div>
 
 
 
-<br>
 <hr>
-
-
-
 <!-- MY GITHUB CONTRIBUTIONSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS -->
 <div align="center">
   <h2>🐍 My GitHub Contributions 🐍</h2>
