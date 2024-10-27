@@ -180,7 +180,7 @@
 
 
 
-<!-- Snake -->
+<!-- MY GITHUB CONTRIBUTIONSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS -->
 <div align="center">
   <h2>🐍 My GitHub Contributions 🐍</h2>
     
@@ -190,8 +190,21 @@
 </div>
 
 
+<!-- LAST WORDSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS -->
+<div align= "center">
+    <h2>:book: Guestbook</h2>
+    <p>Leave a cool message for me or just say you passed by 
+        <a href="https://github.com/kiranShamsHere/kiranShamsHere/issues/new?template=guestbook-entry.md">here</a>
+    !</p>
+    <p>Or ask me anything at 
+        <a href="https://github.com/kiranShamsHere/kiranShamsHere/discussions/new/choose">Discussions</a>
+    !</p> 
+    <br>
+</div>
 
-<!-- THANKS MESSAGEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE -->
+
+
+<!-- THANKS MESSAGEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE -->
 <div align="center">
     <a href="https://git.io/typing-svg">
         <img alt="thanks for your visit" src="https://readme-typing-svg.demolab.com?font=Poppins&size=35&pause=1000&color=7E3ACECE&center=true&vCenter=true&width=435&lines=Thanks+for+your+visit!" >
