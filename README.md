@@ -191,6 +191,7 @@
 
 
 <!-- LAST WORDSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS -->
+<!--
 <div align= "center">
     <h2>:book: Guestbook</h2>
     <p>Leave a cool message for me or just say you passed by 
@@ -201,7 +202,7 @@
     !</p> 
     <br>
 </div>
-
+-->
 
 
 <!-- THANKS MESSAGEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE -->
