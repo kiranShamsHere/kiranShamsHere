@@ -4,9 +4,18 @@
 
 
 <!-- BANNER IMAGEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE -->
-<div align="center" >
+<!--
+    <div align="center" >
     <img width="100%" alt="welcome to my profile!" src="https://github.com/kiranShamsHere/kiranShamsHere/blob/main/assets/images/header.png">
-</div>
+    </div>
+-->
+
+
+
+<!-- HEADER ANIMATIONNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:800080,50:8A2BE2,100:EE82EE&reversal=true&section=header"/>
+</p>
 
 
 
@@ -253,7 +262,15 @@
 
 
 
-
-<br>
 <!-- FOOTER PNGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG-->
-<div align="center"><img alt="" width="100%" src="https://github.com/kiranShamsHere/kiranShamsHere/blob/main/assets/images/footer.png"></div>
+<!--
+<div align="center">
+    <img alt="" width="100%" src="https://github.com/kiranShamsHere/kiranShamsHere/blob/main/assets/images/footer.png">
+</div>
+-->
+
+
+<!-- FOOTER ANIMATIONNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:800080,50:8A2BE2,100:EE82EE&reversal=true&section=footer"/>
+</p>
