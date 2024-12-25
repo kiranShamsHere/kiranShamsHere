@@ -124,17 +124,20 @@
 </div>  
 <hr/>
 
+<div align= "center">
+<br>
+    
+🔭 **What I’m working on:** Frontend projects
 
-- 🔭 I’m currently working on: **Travel Website.**
+🌱 **What I’m exploring:** New tools and technologies to enhance user experiences.
 
-- 🌱 I’m currently learning: **TypeScript.**
+🤝 **Connect with me here:** <a href="https://linktr.ee/KIRAN___SHAMS">LinkTree <a/>
 
-- 🤝 Visit my LinkTree: <a href="https://linktr.ee/KIRAN___SHAMS">LinkTree <a/>
+👨‍💻 **Dive into my projects:** <a href="https://github.com/kiranShamsHere?tab=repositories">GitHub Repositories<a/>
 
-- 👨‍💻 My projects are available at <a href="https://github.com/kiranShamsHere?tab=repositories">GitHub Repositories<a/>
+💬 **Let’s talk about:** JavaScript, PHP, Laravel, or anything tech-related. I’m here to help and share knowledge!
 
-- 💬 Ask me about: JS, PHP, Laravel... or anything [here](https://github.com/kiranShamsHere/kiranShamsHere/issues)
-
+</div>
 <br/>
 <hr/>
 
