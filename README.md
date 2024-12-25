@@ -125,8 +125,9 @@
 <hr/>
 
 <div align= "center">
-<br>
-    
+    <br>
+    <h2>👤 About Me</h2>
+
 🔭 **What I’m working on:** Frontend projects
 
 🌱 **What I’m exploring:** New tools and technologies to enhance user experiences.
