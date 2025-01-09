@@ -59,7 +59,6 @@
 </a> -->
 
 
-<br>
 <!-- LINK FOR TWITTERRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR -->
 <!-- <a href="https://twitter.com/devabdulrehman" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
@@ -89,14 +88,13 @@
 <img src=https://img.shields.io/badge/youtube-%23000000.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>   -->
 
-
+<br>
 <!-- LINK FOR BEHANCEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE -->
 <a href="https://www.behance.net/kiranshams" target="_blank">
     <img src="https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white" alt="behance" style="margin-bottom: 5px;" />
 </a>
 
 
-<br>
 <!-- LINK FOR DRIBBLEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE-->
 <a href="https://dribbble.com/kiranShams" target="_blank">
     <img src="https://img.shields.io/badge/dribbble-%23EA4C89.svg?&style=for-the-badge&logo=dribbble&logoColor=white" alt="dribbble" style="margin-bottom: 5px;" />
@@ -104,9 +102,9 @@
 
 
 <!-- LINK FOR FACEBOOKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK-->
-<a href="https://www.facebook.com/profile.php?id=61564681035623" target="_blank">
+<!-- <a href="https://www.facebook.com/profile.php?id=61564681035623" target="_blank">
     <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" style="margin-bottom: 5px;" />
-</a>
+</a> -->
 
 
 
