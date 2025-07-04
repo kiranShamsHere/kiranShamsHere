@@ -10,7 +10,7 @@
 
 I'm **Kiran Shams**, a passionate **Frontend Developer** on a mission to craft user-friendly experiences and explore the endless possibilities of modern web development. From tinkering with layouts to diving into backend tools, I enjoy every step of transforming ideas into reality. Whether it's designing clean interfaces, experimenting with new technologies, or sharing what I learn, I'm constantly evolving as a developer.
 
-> 💡 *"Code smart, learn fast, build big."*
+> 💡 *"Dream it. Code it. Ship it."*
 
 ---
 
@@ -134,31 +134,3 @@ I didn't always know I'd end up in tech. After completing my intermediate educat
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
 </div>
-
-
-<br>
-<!-- BACK TO TOP ICON AND PROFILE VISITOR ICON WITH NON-BREAKING SPACES -->
-<div align="center">
-   <a href="https://visitorbadge.io/status?path=kiranShamsHere">
-       <img src="https://api.visitorbadge.io/api/visitors?path=kiranShamsHere&label=Profile%20Visitors&countColor=%23ba68c8" alt="Profile Visitors" /> 
-   </a>
-   &nbsp;&nbsp;&nbsp;&nbsp; <!-- Adds space between the badges -->
-   <a href="#top">
-       <img src="https://img.shields.io/badge/Back%20to%20Top%20⬆️-7E3ACE?style=for-the-badge&logoColor=white" alt="Back to top" />
-   </a>
-</div>
-
-
-
-<!-- FOOTER PNGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG-->
-<!--
-<div align="center">
-    <img alt="" width="100%" src="https://github.com/kiranShamsHere/kiranShamsHere/blob/main/assets/images/footer.png">
-</div>
--->
-
-
-<!-- FOOTER ANIMATIONNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:800080,50:8A2BE2,100:EE82EE&reversal=true&section=footer"/>
-</p>
