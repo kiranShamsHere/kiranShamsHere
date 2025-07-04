@@ -3,8 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=190&section=header&text=KIRAN%20SHAMS&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20|%20Lifelong%20Learner%20|%20Aspiring%20Full-Stack%20Engineer&descAlignY=55&descAlign=50" width="100%" />
 </div>
 
-<br/>
-
 <!-- ABOUT ME WITH PROFILE VIEWS ON THE SAME LINE -->
 <h2>👤 About Me</h2>
 
@@ -129,20 +127,13 @@ I didn't always know I'd end up in tech. After completing my intermediate educat
 
 ---
 
-<!-- GITHUB CONTRIBUTIONS -->
-## 🐍 My GitHub Contributions
-
-![snake gif](https://github.com/kiranShamsHere/kiranShamsHere/blob/output/github-snake.svg)
-
----
-
 <!-- QUOTE OF THE DAY -->
 ## 🌟 Quote of the Day
 
 <details open>
   <summary>See quote</summary>
   <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quotes card">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&maxLength=70" alt="quotes card"/>
   </a>
 </details>
 
@@ -154,7 +145,7 @@ I didn't always know I'd end up in tech. After completing my intermediate educat
 <details>
   <summary>See joke</summary>
   <a href="https://github.com/ABSphreak/readme-jokes">
-    <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
+      <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" width="100%"/>
   </a>
 </details>
 
@@ -164,6 +155,14 @@ I didn't always know I'd end up in tech. After completing my intermediate educat
 ## ⭐ My Favorite GitHub Repos
 
 See <a href="https://github.com/kiranShamsHere/my-favorite-repos">here</a> a list of the awesome repositories I've starred! List updates daily.
+
+---
+
+
+<!-- GITHUB CONTRIBUTIONS -->
+## 🐍 My GitHub Contributions
+
+![snake gif](https://github.com/kiranShamsHere/kiranShamsHere/blob/output/github-snake.svg)
 
 ---
 
