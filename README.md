@@ -1,7 +1,13 @@
 <!-- HEADER CAPSULE -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=30&pause=1000&color=8A2BE2&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B+I'm+Kiran+Shams.;Frontend+Developer+%7C+Lifelong+Learner+%7C+Aspiring+Full-Stack+Engineer.;Welcome+to+my+GitHub+Profile!" />
+</p>
+
+<!--
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=190&section=header&text=KIRAN%20SHAMS&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20|%20Lifelong%20Learner%20|%20Aspiring%20Full-Stack%20Engineer&descAlignY=55&descAlign=50" width="100%" />
 </div>
+-->
 
 <!-- ABOUT ME WITH PROFILE VIEWS ON THE SAME LINE -->
 <h2>👤 About Me</h2>
