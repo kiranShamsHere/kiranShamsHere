@@ -35,24 +35,25 @@ I'm **Kiran Shams**, a passionate **Frontend Developer** on a mission to craft u
 ## 🧰 Languages I Use
 
 <div>
-  <a>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  </a>
-  <a>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  </a>
-  <a>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  </a>
-  <a>
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  </a>
-  <a>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  </a>
-  <a>
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  </a>
+  <a><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
+  <a><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/></a>
+
+</div>
+
+---
+
+<!-- FRAMEWORKS I USE -->
+## 🧩 Frameworks I Use
+
+<div>
+  <a><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/></a>
 </div>
 
 ---
@@ -61,21 +62,13 @@ I'm **Kiran Shams**, a passionate **Frontend Developer** on a mission to craft u
 ## ⚒️ Tools I Use
 
 <div>
-  <a>
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  </a>
-  <a>
-    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-  </a>
-  <a>
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  </a>
-  <a>
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  </a>
+  <a><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white"/></a>
+
 </div>
 
 ---
@@ -133,7 +126,7 @@ I didn't always know I'd end up in tech. After completing my intermediate educat
 <details open>
   <summary>See quote</summary>
   <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&maxLength=70" alt="quotes card"/>
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quotes card"/>
   </a>
 </details>
 
@@ -145,7 +138,7 @@ I didn't always know I'd end up in tech. After completing my intermediate educat
 <details>
   <summary>See joke</summary>
   <a href="https://github.com/ABSphreak/readme-jokes">
-      <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" width="100%"/>
+    <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" width="100%"/>
   </a>
 </details>
 
@@ -158,7 +151,6 @@ See <a href="https://github.com/kiranShamsHere/my-favorite-repos">here</a> a lis
 
 ---
 
-
 <!-- GITHUB CONTRIBUTIONS -->
 ## 🐍 My GitHub Contributions
 
@@ -168,13 +160,11 @@ See <a href="https://github.com/kiranShamsHere/my-favorite-repos">here</a> a lis
 
 <!-- FOOTER & BACK TO TOP -->
 <p align="right">
-    <a href="#top">
-      <img src="https://img.shields.io/badge/Back%20to%20Top%20⬆️-8A2BE2?style=for-the-badge&logoColor=white"/>
-    </a>
+  <a href="#top">
+    <img src="https://img.shields.io/badge/Back%20to%20Top%20⬆️-8A2BE2?style=for-the-badge&logoColor=white"/>
+  </a>
 </p>
 
 <div align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer" 
-    width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer" width="100%"/>
 </div>
