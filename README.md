@@ -1,6 +1,6 @@
 <!-- HEADER CAPSULE -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=30&pause=1000&color=8A2BE2&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B+I'm+Kiran+Shams.;Frontend+Developer+%7C+Lifelong+Learner+%7C+Aspiring+Full-Stack+Engineer.;Welcome+to+my+GitHub+Profile!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=30&pause=300&color=8A2BE2&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B+I'm+Kiran+Shams.;Computer+Science+Student;Frontend+Developer;AI+Enthusiast;Welcome+to+my+GitHub+Profile!" />
 </p>
 
 <!--
