@@ -1,4 +1,5 @@
 <div id="top"></div>
+
 <!-- HEADER CAPSULE -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=40&pause=300&color=8A2BE2&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Kiran+Shams.;Computer+Science+Student;AI+Enthusiast;Frontend+Developer;Welcome+to+my+GitHub+Profile!" />
@@ -88,6 +89,7 @@ Hi, I'm <strong>Kiran Shams</strong>, a passionate <strong>Web Developer</strong
   <a><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
   <a><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
   <a><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/></a>
 
 </div>
 
@@ -112,12 +114,16 @@ Hi, I'm <strong>Kiran Shams</strong>, a passionate <strong>Web Developer</strong
   <a><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/></a>
   <a><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></a>
   <a><img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/></a>
   <a><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/></a>
   <a><img src="https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white"/></a>
   <a><img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/></a>
   <a><img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/></a>
   <a><img src="https://img.shields.io/badge/Claude-4A90E2?style=for-the-badge&logo=anthropic&logoColor=white"/></a>
   <a><img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/></a>
   <a><img src="https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
   <a><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/></a>
 </div>
@@ -173,7 +179,8 @@ Hi, I'm <strong>Kiran Shams</strong>, a passionate <strong>Web Developer</strong
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kiranShamsHere&show_icons=true&theme=midnight-purple"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=kiranShamsHere&theme=midnight-purple"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiranShamsHere&layout=compact&theme=midnight-purple"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiranShamsHere&layout=compact&theme=midnight-purple" />
+
 </p>
 
 ---
