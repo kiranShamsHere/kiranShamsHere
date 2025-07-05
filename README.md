@@ -47,6 +47,35 @@ Hi, I'm <strong>Kiran Shams</strong>, a passionate <strong>Web Developer</strong
 
 ---
 
+<!-- HOW TO REACH ME -->
+## 📫 How to Reach Me
+
+<div>
+  <a href="https://www.linkedin.com/in/kiranshams/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:kiranshamsdhiloo@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/kiranShamsHere">
+    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://codepen.io/Kiran-Shams">
+    <img src="https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white"/>
+  </a>
+  <a href="https://www.behance.net/kiranshams">
+    <img src="https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white"/>
+  </a>
+  <a href="https://dribbble.com/kiranShams">
+    <img src="https://img.shields.io/badge/dribbble-%23EA4C89.svg?&style=for-the-badge&logo=dribbble&logoColor=white"/>
+  </a>
+  <a href="https://www.pinterest.com/Kiran_Shams/">
+    <img src="https://img.shields.io/badge/pinterest-%23E60023.svg?&style=for-the-badge&logo=pinterest&logoColor=white"/>
+  </a>
+</div>
+
+---
+
 <!-- LANGUAGES I USE -->
 ## 🧰 Languages I Use
 
@@ -80,39 +109,41 @@ Hi, I'm <strong>Kiran Shams</strong>, a passionate <strong>Web Developer</strong
 <div>
   <a><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/></a>
   <a><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/Claude-4A90E2?style=for-the-badge&logo=anthropic&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white"/></a>
   <a><img src="https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
   <a><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/></a>
-  <a><img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white"/></a>
-
 </div>
 
 ---
 
-<!-- HOW TO REACH ME -->
-## 📫 How to Reach Me
+## 📚 Currently Learning
 
 <div>
-  <a href="https://www.linkedin.com/in/kiranshams/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+   <a>
+    <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
   </a>
-  <a href="mailto:kiranshamsdhiloo@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   </a>
-  <a href="https://github.com/kiranShamsHere">
-    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+  <a>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   </a>
-  <a href="https://codepen.io/Kiran-Shams">
-    <img src="https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white"/>
+  <a>
+    <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   </a>
-  <a href="https://www.behance.net/kiranshams">
-    <img src="https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white"/>
+  <a>
+    <img src="https://img.shields.io/badge/Data%20Science-4B8BBE?style=for-the-badge&logo=pandas&logoColor=white"/>
   </a>
-  <a href="https://dribbble.com/kiranShams">
-    <img src="https://img.shields.io/badge/dribbble-%23EA4C89.svg?&style=for-the-badge&logo=dribbble&logoColor=white"/>
-  </a>
-  <a href="https://www.pinterest.com/Kiran_Shams/">
-    <img src="https://img.shields.io/badge/pinterest-%23E60023.svg?&style=for-the-badge&logo=pinterest&logoColor=white"/>
+  <a>
+    <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
   </a>
 </div>
 
@@ -121,7 +152,18 @@ Hi, I'm <strong>Kiran Shams</strong>, a passionate <strong>Web Developer</strong
 <!-- MY CODING JOURNEY -->
 ## 💻 My Coding Journey
 
-I didn't always know I'd end up in tech. After completing my intermediate education, I discovered web development and fell in love with the process of bringing designs to life. I started with tutorials and courses, later enrolled in a NAVTTC program where I gained solid foundations in both frontend and backend development. Now, I'm focusing on frontend as my specialization while independently exploring new tools and frameworks. My journey has just begun, and I'm excited to keep learning and building!
+<details>
+  <summary>Click to read my journey</summary>
+
+  <br>
+  <p align="center" style="font-size:14px;">
+  I didn't always know I'd end up in tech. After completing my intermediate education, I discovered web development and quickly fell in love with building websites that people can actually use.  
+  <br><br>
+  I began by exploring tutorials and online courses, then joined a NAVTTC training program where I learned both frontend and backend development. Later, I enrolled at Sindh Agriculture University (SAU), where I continued growing my skills and expanding my vision for what technology can do.  
+  <br><br>
+  Now, I'm focused mainly on frontend development, but I love exploring new tools, frameworks, and ideas. My journey has just begun, and I'm excited to keep learning, building, and connecting with like-minded people!
+  </p>
+</details>
 
 ---
 
@@ -133,6 +175,30 @@ I didn't always know I'd end up in tech. After completing my intermediate educat
   <img src="https://github-readme-streak-stats.herokuapp.com?user=kiranShamsHere&theme=midnight-purple"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiranShamsHere&layout=compact&theme=midnight-purple"/>
 </p>
+
+---
+
+<!-- GITHUB TROPHIES -->
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kiranShamsHere&theme=dracula&no-frame=false&no-bg=true&margin-w=10&margin-h=15" alt="GitHub Trophies" />
+</p>
+
+---
+
+<!-- GITHUB CONTRIBUTION GRAPH -->
+## 📈 My GitHub Contribution Graph
+
+<details>
+  <summary>📈 Click to Open</summary>
+
+  <br>
+  <p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kiranShamsHere&theme=tokyo-night&area=true&hide_border=true&custom_title=My%20GitHub%20Activity" width="100%" height="150px"/>
+  </p>
+
+</details>
 
 ---
 
