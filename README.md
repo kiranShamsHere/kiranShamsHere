@@ -10,10 +10,19 @@
 </div>
 -->
 
+
+<h4 align="center">
+Web Developer — Frontend & Backend | Building responsive websites & exploring new tools | Pakistan | Open to Collaboration
+</h4>
+
+---
+
 <!-- ABOUT ME WITH PROFILE VIEWS ON THE SAME LINE -->
 <h2>👤 About Me</h2>
 
-I'm **Kiran Shams**, a passionate **Frontend Developer** on a mission to craft user-friendly experiences and explore the endless possibilities of modern web development. From tinkering with layouts to diving into backend tools, I enjoy every step of transforming ideas into reality. Whether it's designing clean interfaces, experimenting with new technologies, or sharing what I learn, I'm constantly evolving as a developer.
+<p align="justify" style="font-size: 14px;">
+Hi, I'm <strong>Kiran Shams</strong>, a motivated <strong>Web Developer</strong> with a passion for building modern, responsive websites and exploring different areas of technology. I enjoy working on both frontend and backend projects, learning about design, coding best practices, and new frameworks. I'm always looking for opportunities to grow my skills and collaborate on exciting ideas.
+</p>
 
 > 💡 *"Dream it. Code it. Ship it."*
 
