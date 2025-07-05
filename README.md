@@ -20,8 +20,8 @@ Web Developer — Frontend & Backend | Building responsive websites & exploring 
 <!-- ABOUT ME WITH PROFILE VIEWS ON THE SAME LINE -->
 <h2>👤 About Me</h2>
 
-<p align="justify" style="font-size: 14px;">
-Hi, I'm <strong>Kiran Shams</strong>, a motivated <strong>Web Developer</strong> with a passion for building modern, responsive websites and exploring different areas of technology. I enjoy working on both frontend and backend projects, learning about design, coding best practices, and new frameworks. I'm always looking for opportunities to grow my skills and collaborate on exciting ideas.
+<p align="center">
+Hi, I'm <strong>Kiran Shams</strong>, a passionate <strong>Web Developer</strong> who loves building modern, responsive websites. I enjoy learning new tools, working across frontend and backend, and collaborating on creative projects.
 </p>
 
 > 💡 *"Dream it. Code it. Ship it."*
