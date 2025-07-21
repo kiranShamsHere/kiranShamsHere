@@ -227,7 +227,7 @@ Hi, I'm <strong>Kiran Shams</strong>, a passionate <strong>Web Developer</strong
 
 ---
 
-<<!-- GITHUB CONTRIBUTION GRAPH -->
+<!-- GITHUB CONTRIBUTION GRAPH -->
 ## 📈 My GitHub Contribution Graph
 
 <p align="center">
