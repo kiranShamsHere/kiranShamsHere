@@ -52,24 +52,57 @@ Hi, I'm <strong>Kiran Shams</strong>, a passionate <strong>Web Developer</strong
 ## 📫 How to Reach Me
 
 <div>
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/kiranshams/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
+  <!-- Gmail -->
   <a href="mailto:kiranshamsdhiloo@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
+  <!-- GitHub -->
   <a href="https://github.com/kiranShamsHere">
     <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+
+  <!-- Discord -->
+  <a href="https://discord.com/users/its_kiranshams">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/share/1DB8mUJ9nS/">
+    <img src="https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/eversoftgirl/">
+    <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+  <!-- Twitter (X) -->
+  <a href="https://x.com/Kiran__Bhatti?t=qUbupJKk9iXep-YDIeUukw&s=09">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+
+  <!-- CodePen -->
   <a href="https://codepen.io/Kiran-Shams">
     <img src="https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white"/>
   </a>
+
+  <!-- Behance -->
   <a href="https://www.behance.net/kiranshams">
     <img src="https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white"/>
   </a>
+
+  <!-- Dribbble -->
   <a href="https://dribbble.com/kiranShams">
     <img src="https://img.shields.io/badge/dribbble-%23EA4C89.svg?&style=for-the-badge&logo=dribbble&logoColor=white"/>
   </a>
+
+  <!-- Pinterest -->
   <a href="https://www.pinterest.com/Kiran_Shams/">
     <img src="https://img.shields.io/badge/pinterest-%23E60023.svg?&style=for-the-badge&logo=pinterest&logoColor=white"/>
   </a>
