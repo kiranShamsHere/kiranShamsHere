@@ -194,11 +194,11 @@ Hi, I'm <strong>Kiran Shams</strong>, a passionate <strong>Web Developer</strong
 
 ---
 
-<!-- GITHUB CONTRIBUTION GRAPH -->
+<<!-- GITHUB CONTRIBUTION GRAPH -->
 ## 📈 My GitHub Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kiranShamsHere&theme=tokyo-night&area=true&hide_border=false&custom_title=My%20GitHub%20Activity" width="100%" height="120px"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kiranShamsHere&theme=tokyo-night&area=true&hide_border=false&custom_title=My%20GitHub%20Activity" style="width: 100%; height: auto;" />
 </p>
 
 ---
