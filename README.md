@@ -236,18 +236,6 @@ Hi, I'm <strong>Kiran Shams</strong>, a passionate <strong>Web Developer</strong
 
 ---
 
-<!-- QUOTE OF THE DAY -->
-## 🌟 Quote of the Day
-
-<details open>
-  <summary>See quote</summary>
-  <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quotes card"/>
-  </a>
-</details>
-
----
-
 <!-- FAVORITE REPOS -->
 ## ⭐ My Favorite GitHub Repos
 
