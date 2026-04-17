@@ -248,18 +248,6 @@ Hi, I'm <strong>Kiran Shams</strong>, a passionate <strong>Web Developer</strong
 
 ---
 
-<!-- JOKE OF THE DAY -->
-## 😂 Joke of the Day
-
-<details>
-  <summary>See joke</summary>
-  <a href="https://github.com/ABSphreak/readme-jokes">
-    <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" width="100%"/>
-  </a>
-</details>
-
----
-
 <!-- FAVORITE REPOS -->
 ## ⭐ My Favorite GitHub Repos
 
