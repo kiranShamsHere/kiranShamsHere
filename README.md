@@ -2,7 +2,7 @@
 
 <!-- HEADER CAPSULE -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=40&pause=300&color=8A2BE2&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Kiran+Shams.;Computer+Science+Student;AI+Enthusiast;Frontend+Developer;Welcome+to+my+GitHub+Profile!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=40&pause=300&color=8A2BE2&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Kiran+Shams.;Computer+Science+Student;AI+Enthusiast;Frontend+Developer;Open+Source+Contributor;Welcome+to+my+GitHub+Profile!" />
 </p>
 
 <!--
@@ -13,7 +13,7 @@
 
 
 <h4 align="center">
-Web Developer — Frontend & Backend | Building responsive websites & exploring new tools | Pakistan | Open to Collaboration
+Web Developer | Open Source Contributor | Building with AI, ML & Automation | Founder @ AgriClima AI
 </h4>
 
 ---
@@ -21,11 +21,22 @@ Web Developer — Frontend & Backend | Building responsive websites & exploring 
 <!-- ABOUT ME WITH PROFILE VIEWS ON THE SAME LINE -->
 <h2>👤 About Me</h2>
 
-<p align="">
-Hi, I'm <strong>Kiran Shams</strong>, a passionate <strong>Web Developer</strong> who loves building modern, responsive websites. I enjoy learning new tools, working across frontend and backend, and collaborating on creative projects.
+<p>
+Hi, I'm <strong>Kiran Shams</strong> — a <strong>Web Developer</strong>, <strong>Open Source Contributor</strong>, and <strong>Founder of AgriClima AI</strong>.
 </p>
 
-> 💡 *"Dream it. Code it. Ship it."*
+<p>
+I build digital systems that go beyond websites — focusing on tools, workflows, and ideas that solve real-world problems. My work blends development with automation and practical problem-solving.
+</p>
+
+<p>
+Currently, I’m building <strong>AgriClima AI</strong>, a project that applies technology to climate and agriculture to support smarter decision-making.
+</p>
+
+
+<blockquote>
+💡 <i>"Dream it. Code it. Ship it."</i>
+</blockquote>
 
 <!-- BADGES UNDER ABOUT ME -->
 <div>
@@ -52,59 +63,14 @@ Hi, I'm <strong>Kiran Shams</strong>, a passionate <strong>Web Developer</strong
 ## 📫 How to Reach Me
 
 <div>
-  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/kiranshams/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
-  <!-- Gmail -->
   <a href="mailto:kiranshamsdhiloo@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-
-  <!-- GitHub -->
   <a href="https://github.com/kiranShamsHere">
     <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
-  <!-- Discord -->
-  <a href="https://discord.com/users/its_kiranshams">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-
-  <!-- Facebook -->
-  <a href="https://www.facebook.com/share/1DB8mUJ9nS/">
-    <img src="https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/eversoftgirl/">
-    <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-
-  <!-- Twitter (X) -->
-  <a href="https://x.com/Kiran__Bhatti?t=qUbupJKk9iXep-YDIeUukw&s=09">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-
-  <!-- CodePen -->
-  <a href="https://codepen.io/Kiran-Shams">
-    <img src="https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white"/>
-  </a>
-
-  <!-- Behance -->
-  <a href="https://www.behance.net/kiranshams">
-    <img src="https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white"/>
-  </a>
-
-  <!-- Dribbble -->
-  <a href="https://dribbble.com/kiranShams">
-    <img src="https://img.shields.io/badge/dribbble-%23EA4C89.svg?&style=for-the-badge&logo=dribbble&logoColor=white"/>
-  </a>
-
-  <!-- Pinterest -->
-  <a href="https://www.pinterest.com/Kiran_Shams/">
-    <img src="https://img.shields.io/badge/pinterest-%23E60023.svg?&style=for-the-badge&logo=pinterest&logoColor=white"/>
   </a>
 </div>
 
@@ -123,7 +89,6 @@ Hi, I'm <strong>Kiran Shams</strong>, a passionate <strong>Web Developer</strong
   <a><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
   <a><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/></a>
   <a><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/></a>
-
 </div>
 
 ---
@@ -134,6 +99,7 @@ Hi, I'm <strong>Kiran Shams</strong>, a passionate <strong>Web Developer</strong
 <div>
   <a><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/></a>
   <a><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/></a>
 </div>
 
 ---
@@ -144,6 +110,7 @@ Hi, I'm <strong>Kiran Shams</strong>, a passionate <strong>Web Developer</strong
 <div>
   <a><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/></a>
   <a><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/></a>
   <a><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></a>
   <a><img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/></a>
@@ -166,24 +133,12 @@ Hi, I'm <strong>Kiran Shams</strong>, a passionate <strong>Web Developer</strong
 ## 📚 Currently Learning
 
 <div>
-   <a>
-    <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
-  </a>
-  <a>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  </a>
-  <a>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  </a>
-  <a>
-    <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  </a>
-  <a>
-    <img src="https://img.shields.io/badge/Data%20Science-4B8BBE?style=for-the-badge&logo=pandas&logoColor=white"/>
-  </a>
-  <a>
-    <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
-  </a>
+  <a><img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/></a>
+  <a><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/Data%20Science-4B8BBE?style=for-the-badge&logo=pandas&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/></a>
 </div>
 
 ---
@@ -206,6 +161,72 @@ Hi, I'm <strong>Kiran Shams</strong>, a passionate <strong>Web Developer</strong
 
 ---
 
+<!-- RECENT WORK — NEW SECTION -->
+## 🚀 Recent Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 Auto README Generator</h3>
+      <p>AI-powered tool that auto-generates professional READMEs for all repositories using Python & GitHub Actions.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>
+      <br/><br/>
+      <a href="https://github.com/kiranShamsHere/Auto-Readme-Generator">
+        <img src="https://img.shields.io/badge/View%20Repo-%238A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧭 GitPilot</h3>
+      <p>Git workflow automation tool — simplifying branching, commits, and repo management for developers.</p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+      <br/><br/>
+      <a href="https://github.com/kiranShamsHere/gitpilot">
+        <img src="https://img.shields.io/badge/View%20Repo-%238A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔍 GitHub Username Updater</h3>
+      <p>Find and replace your GitHub username across all repositories in one click.</p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/GitHub_API-181717?style=flat-square&logo=github&logoColor=white"/>
+      <br/><br/>
+      <a href="https://github.com/kiranShamsHere/Github-Username-Updater">
+        <img src="https://img.shields.io/badge/View%20Repo-%238A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎓 GSoC Org Finder</h3>
+      <p>Helps students find Google Summer of Code organizations. Contributed copy-link feature to project modal — 10 comments discussion.</p>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      <br/><br/>
+      <a href="https://github.com/S3DFX-CYBER/GSoC-Org-Finder-">
+        <img src="https://img.shields.io/badge/View%20Repo-%238A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- OPEN SOURCE CONTRIBUTIONS — NEW SECTION -->
+## 🌐 Open Source Contributions
+
+| 🔗 Project | 💬 What I did | ✅ Status |
+|-----------|--------------|----------|
+| [S3DFX-CYBER / GSoC-Org-Finder](https://github.com/S3DFX-CYBER/GSoC-Org-Finder-) | Added copy-link button to project ideas modal — 10 comments, active PR | ✅ Merged |
+| [kiranShamsHere / gitpilot](https://github.com/kiranShamsHere/gitpilot) | Building Git workflow automation tool | 🔄 Active |
+| [kiranShamsHere / Conference_website](https://github.com/kiranShamsHere/Conference_website) | JavaScript frontend contribution | ✅ Done |
+| [kiranShamsHere / Auto-Readme-Generator](https://github.com/kiranShamsHere/Auto-Readme-Generator) | AI-powered README generator using Python & GitHub Actions | 🔄 Active |
+
+> 🔍 I look for `good first issue` and `help wanted` labels. Always open to reviewing PRs too!
+
+---
+
 <!-- GITHUB STATS -->
 ## ⚡ GitHub Stats
 
@@ -213,7 +234,6 @@ Hi, I'm <strong>Kiran Shams</strong>, a passionate <strong>Web Developer</strong
   <img src="https://github-readme-stats.vercel.app/api?username=kiranShamsHere&show_icons=true&theme=midnight-purple"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=kiranShamsHere&theme=midnight-purple"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiranShamsHere&layout=compact&theme=midnight-purple" />
-
 </p>
 
 ---
