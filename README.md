@@ -123,10 +123,6 @@ Currently, I’m building <strong>AgriClima AI</strong>, a project that applies 
   <a><img src="https://img.shields.io/badge/Claude-4A90E2?style=for-the-badge&logo=anthropic&logoColor=white"/></a>
   <a><img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white"/></a>
   <a><img src="https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white"/></a>
-  <a><img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/></a>
-  <a><img src="https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-  <a><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/></a>
-</div>
 
 ---
 
