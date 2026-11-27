@@ -252,13 +252,6 @@ Currently, I’m building <strong>AgriClima AI</strong>, a project that applies 
 
 ---
 
-<!-- FAVORITE REPOS -->
-## ⭐ My Favorite GitHub Repos
-
-See <a href="https://github.com/kiranShamsHere/my-favorite-repos">here</a> a list of the awesome repositories I've starred! List updates daily.
-
----
-
 <!-- GITHUB CONTRIBUTIONS -->
 ## 🐍 My GitHub Contributions
 
